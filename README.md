@@ -9,4 +9,6 @@
 
 [lab-4] (https://github.com/saivarunvanama/Varunsai01/blob/main/assignment_4.ipynb)
 
+[lab-5] (https://github.com/saivarunvanama/Varunsai01/blob/main/lab_5.ipynb)
+
 [lab-7] (https://github.com/saivarunvanama/Varunsai01/blob/main/assignment7.ipynb)
