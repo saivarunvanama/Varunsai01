@@ -1,4 +1,6 @@
 # Varunsai01
+[lab-1] [part 2] (https://github.com/saivarunvanama/Varunsai01/blob/main/lab_1_part_2.ipynb)
+
 [lab-1] [part 1] (https://github.com/saivarunvanama/Varunsai01/blob/main/lab_1_part_1.ipynb)
 
 [lab-3] (https://github.com/saivarunvanama/Varunsai01/blob/main/assignment3.ipynb)
