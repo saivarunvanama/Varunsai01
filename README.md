@@ -14,3 +14,5 @@
 [lab 6] (https://github.com/saivarunvanama/Varunsai01/blob/main/lab_6.ipynb)
 
 [lab-7] (https://github.com/saivarunvanama/Varunsai01/blob/main/assignment7.ipynb)
+
+[lab-8] (https://github.com/saivarunvanama/Varunsai01/blob/main/assip8.ipynb)
