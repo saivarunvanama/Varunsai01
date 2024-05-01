@@ -17,4 +17,4 @@
 
 [lab-8] (https://github.com/saivarunvanama/Varunsai01/blob/main/assip8.ipynb) 
 
-[lab-9]
+[lab-9] (https://github.com/saivarunvanama/Varunsai01/blob/main/LAB_09.ipynb)
